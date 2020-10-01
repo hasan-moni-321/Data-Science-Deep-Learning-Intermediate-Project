@@ -7,4 +7,3 @@
  3. Sales prediction with seasonal data
  4. Image classification with CIFAR10 dataset
  
- 
